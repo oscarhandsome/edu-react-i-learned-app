@@ -1,3 +1,11 @@
+# Today i learned
+
+Facts application opportunity to add facts, connected to supabase.
+
+[Link to the DEMO](https://bit.ly/3xgQ1wf)
+
+> © Copyright by Jonas Schmedtmann. Use for learning or your portfolio. Don't use to teach. Don't claim as your own.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
